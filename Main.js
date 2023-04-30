@@ -1,4 +1,4 @@
-ar property = new Array();
+var property = new Array();
 
 var unit = new Array();
 
